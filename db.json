@@ -1,0 +1,20 @@
+{
+    "bios": [
+        {
+            "id": 0,
+            "name": "Lydia Ojoawo",
+            "age": 25,
+            "occupation": "software developer",
+            "favouriteFood" : ["beef", "rice", "swallows"]
+
+        },
+        {
+            "id": 1,
+            "name": "ElianaOjoawo",
+            "age": "6 months",
+            "occupation": "soft life geng",
+            "favouriteFood" : ["breast milk", "cereals"]
+
+        }
+    ]
+}
